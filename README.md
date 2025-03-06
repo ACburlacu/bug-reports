@@ -71,7 +71,7 @@ The play button of the featured presentation section does not work.
 1. Visit https://fieni.ro/
 2. Scroll down until you see "Clip de prezentare al Orașului Fieni"
 ### Expected result
-User clicks the play button and accesses the presentation.
+User clicks the play button and can view the presentation.
 ### Actual result
 The play button does not work.
 
