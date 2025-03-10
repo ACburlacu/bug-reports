@@ -64,18 +64,7 @@ The pop-up lick and button do not use proper grammar.
 
 ![Screenshot 2025-03-05 100645](https://github.com/user-attachments/assets/0039359f-4af1-4442-aaa3-e2efc191e4dc)
 
-## 6. Unavailable website presentation
-### Description
-The play button of the featured presentation section does not work.
-### Steps to reproduce
-1. Visit https://fieni.ro/
-2. Scroll down until you see "Clip de prezentare al Orașului Fieni"
-### Expected result
-User clicks the play button and can view the presentation.
-### Actual result
-The play button does not work.
-
-## 7. Missing challenge
+## 6. Missing challenge
 ### Description
 The challenges menu is missing a third challenge.
 ### Steps to reproduce
