@@ -39,7 +39,7 @@ User is warned that they have passed the limit.
 ![Screenshot 2025-03-05 091943](https://github.com/user-attachments/assets/23b6cb24-2b69-4823-b901-f6eb2f1dd120)
 ![Screenshot 2025-03-05 092055](https://github.com/user-attachments/assets/48cd80d4-48ed-402a-9906-f42eed4a73ba)
 
-## 4. Website resources failures
+## 4. Website resources failure
 ### Description
 Some background processes return errors, while the website still works.
 ### Steps to reproduce
